@@ -1,4 +1,8 @@
-Varun Ruddaraju       Computer Science
-Jett Spitzer          Computer Science
-Jaejin Kim            Computer Science  
-Adit Mohindra         Computer Science
+Varun Ruddaraju       
+Green
+Jett Spitzer          
+Grey
+Jaejin Kim           
+Red
+Adit Mohindra         
+Orange
